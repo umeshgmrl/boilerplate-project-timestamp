@@ -17,7 +17,7 @@
 #### Example usage:
 
 - https://fcc-api-projects-boilerplate-rpwbwonpfr.now.sh/api/timestamp/2015-12-15
-- https://fcc-api-projects-boilerplate-rpwbwonpfr.now.sh//api/timestamp/1450137600000
+- https://fcc-api-projects-boilerplate-rpwbwonpfr.now.sh/api/timestamp/1450137600000
 
 #### Example output:
 
